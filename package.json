@@ -103,6 +103,6 @@
     "enzyme-adapter-react-16": "^1.14.0",
     "tslint": "^5.19.0",
     "tslint-config-prettier": "^1.18.0",
-    "tslint-plugin-prettier": "^2.0.1"
+    "tslint-plugin-prettier": "^2.3.0"
   }
 }
